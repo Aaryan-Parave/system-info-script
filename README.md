@@ -1,6 +1,6 @@
-# System Info Scrript
+# System Info Script
 
-A Simple Bash script thst prints basic system information to the Terminal
+A Simple Bash script that prints basic system information to the Terminal
 
 ## What it Shows 
 - Current Date and Time 
